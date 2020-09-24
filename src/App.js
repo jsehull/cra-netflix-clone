@@ -3,7 +3,7 @@ import { JumbotronContainer } from './containers/jumbotron'
 import { FaqsContainer } from './containers/faqs'
 import { FooterContainer } from './containers/footer'
 
-export default function App() {
+export default function App () {
   return (
     <>
       <JumbotronContainer />
